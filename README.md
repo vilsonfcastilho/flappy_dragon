@@ -4,6 +4,10 @@ A 2D Rust game created to study folowing the Hands-on Rust book. 📖
 
 - 👾 **bracket-lib** - Roguelike game tollkit
 
+## ✨ Screenshot
+
+![Flappy Dragon Screenshot](assets/flappy_dragon_screenshot.png)
+
 ## 🚀 Getting started
 
 Make sure that you have Rust installed;<br />
